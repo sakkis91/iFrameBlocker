@@ -1,7 +1,7 @@
 {
    "manifest_version": 2,
 
-   "name": "iFrame Blocker",
+   "name": "iFrameBlocker",
    "version": "1.0",
    "description": "Block unwanted iframes",
 
